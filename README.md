@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Skeding](https://www.skeding.io/)
 
-- 🌱 I’m currently learning **Astro js, AI**
+- 🌱 I’m currently learning **AI and Cloud**
 
 - 💬 Ask me about **REACT | NODE | MONGO DB | EXPRESS | REACT NATIVE | GRAPH QL | PHP | TYPESCRIPT**
 
